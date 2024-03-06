@@ -1,0 +1,2 @@
+Usually the best regression can be done using XGBoost. Just as a reminder, XGBClassifier has to be changed to
+XGBRegressor.
